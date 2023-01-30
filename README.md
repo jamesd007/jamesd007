@@ -9,6 +9,22 @@
   </i>
 </blockquote>
 
+
+- Javascript React
+- CSS
+- Python
+- Android Studio
+- Java
+- Visual Basic (VBA)
+- Turbo Pascal
+- Microsoft Office suite
+- Construction Computer Software CCS
+- Adobe Photoshop
+- GIMP
+- Pastel Accounting
+- Pastel Payroll
+
+
 <!---
 jamesd007/jamesd007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
