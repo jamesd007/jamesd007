@@ -1,8 +1,5 @@
 <h1>
-    <img src="https://github.com/jamesd007/jamesd007/blob/main/images/JDCVPIC1%20with%20circlular2.png" width="140" height="140">
     <img src="https://github.com/jamesd007/jamesd007/blob/main/images/JDCVPIC1%20with%20circlular1.png" width="140" height="140">
-    <img src="https://github.com/jamesd007/jamesd007/blob/main/images/JDCVPIC1%20with%20circlular.png" width="140" height="140">
-<!--     <img src="https://github.com/jamesd007/jamesd007/blob/main/images/JDCVPIC2.png" width="140" height="140"> -->
     James Doyle
 </h1>
 
