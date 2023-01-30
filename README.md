@@ -1,8 +1,4 @@
 <style>
-  .right-title{
-    text-align:right;
-    font-size:32px;
-  }
   .indent{
     margin-left:20px;
     margin-right:20px;
@@ -11,12 +7,7 @@
 </style>
 
 <div class="right-title">
-  <img
-    src="c:/doyles/JDCVPIC2.png"
-    alt="MarineGEO circle logo"
-    style="height: 100px; width:100px;"/>
-  <!-- ![alt text](c:\doyles\jdcvpic2.png) -->
-  <p style="margin:0;">
+  <p style="margin:0; text-align:right;font-size:32px">
     James Doyle
   </p>
   <hr style="margin-top: 0" />
@@ -24,7 +15,7 @@
 
 <p class="indent">
   <i >
-    versatile frontend developer who combines  a passion for design with a talent for creating efficient solutions by expertly analyzing requirements, designing algorithms, and writing clean, effective code.
+    versatile frontend developer who combines  a passion for design with a talent for creating efficient solutions by analyzing requirements, designing algorithms, and writing clean, effective code.
   </i>
 </p>
 
