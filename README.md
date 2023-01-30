@@ -31,6 +31,20 @@
 - Project Management University of Pretoria
 - National Higher Diploma Civil Engineering University of Johannesburg
 
+<h2>Work Experience</h2>
+    
+- Enabled.World  
+Software Devleoper 2020 to current
+- Sunstar Civils  
+Director 2009 to 2019
+- DipCivils  
+Director 1993 to 2008
+- De Leuw Cather Inc  
+Software Developer 1984 to 1993
+- University of Johannesburg  
+Lecturer part time 1988 to 1993
+    
+
 
 
 <!---
