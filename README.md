@@ -24,6 +24,14 @@
 - Pastel Accounting
 - Pastel Payroll
 
+<h2>Education</h2>
+
+- MSc Engineering (Civil) University of the Witwatersrand
+- Graduate Diploma in Engineering (GDE) University of the Witwatersrand
+- Project Management University of Pretoria
+- National Higher Diploma Civil Engineering University of Johannesburg
+
+
 
 <!---
 jamesd007/jamesd007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
