@@ -1,3 +1,6 @@
+<p style="margin:0;">
+    James Doyle
+  </p>
 - 👋 Hi, I’m @jamesd007
 - 👀 I’m interested in React Javascript. Python,communications (AWS, REST)
 - 🌱 I’m currently learning Python, React Javascript, AWS
